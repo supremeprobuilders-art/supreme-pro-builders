@@ -105,6 +105,7 @@ export default function RootLayout({
             }),
           }}
         />
+      <script src="/company-traffic.js" data-site="spb" defer />
       </body>
     </html>
   );
